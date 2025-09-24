@@ -1,9 +1,12 @@
 <h1 align="center">Ieeepa 👋, soy Luis Solsona</h1>
 <h3 align="center">Profe de día... Friki de noche</h3>
 
-- 🧑‍🏫 Actualmente trabajando en  [IES MIGUEL DE MOLINOS](https://www.iesmigueldemolinos.es/)
-
-- 🔭 Anteriormente trabajando en [CAMPUS DIGITAL FP](https://campusdigitalfp.com/)
+- 🧑‍🏫 Actualmente impartiendo docencia en  [IES MIGUEL DE MOLINOS](https://www.iesmigueldemolinos.es/)
+- 🔭 Anteriormente en [CAMPUS DIGITAL FP](https://campusdigitalfp.com/)
+- 🔭 Anteriormente en [CPIFP Bajo Aragón](https://cpifpbajoaragon.com/)
+- 🔭 Anteriormente en [CPIFP Los Enlaces](https://cpilosenlaces.com/)
+- 🔭 Anteriormente en [IES Río Arba](https://sites.google.com/iesrioarba.es/iesrioarba/inicio)
+- 🔭 Anteriormente en ... te lo cuento con un café...
 
 - 🌱 Tengo curiosidad sobre **scripts, windows, linux, sistemas...**
 
